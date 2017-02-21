@@ -1,0 +1,20 @@
+Chelsea : Manchester City : 1 : 1
+Tottenham Hotspur : Stoke City : 0 : 0
+Hull City : Tottenham Hotspur : 3 : 5
+Stoke City : West Bromwich Albion : 5 : 4
+Sunderland : Chelsea : 4 : 2
+Chelsea : Manchester United : 1 : 1
+West Ham United : Middlesbrough : 2 : 1
+
+:Liverpool:2:1
+Hull City : :2:3
+Manchester City : Liverpool::2
+Chelsea : Manchester City : 1 :
+: :2:0
+Chelsea - Manchester City - 1 : 1
+Arsenal Liverpool :2:2
+
+West Ham United : Aresnal : A: 1
+Hull : Liverpool : 5: x
+stop
+

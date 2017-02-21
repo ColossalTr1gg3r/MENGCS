@@ -1,0 +1,5 @@
+Chelsea:Manchester City:1:1
+Tottenham Hotspur:Stoke City:0:0
+Hull City:Tottenham Hotspur:3:5
+:Liverpool:2:1
+stop
