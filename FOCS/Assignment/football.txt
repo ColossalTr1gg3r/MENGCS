@@ -1,3 +1,0 @@
-MAN:LIV:1:2
-LIV:MAN:2:1
-stop
